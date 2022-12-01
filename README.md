@@ -4,4 +4,4 @@
 
 Adapted via chat.openai.com from the prompt "What are the steps to create a navbar in Bootstrap 5?"
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-naynyh)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/open-ai-bootstrap-5-navbar)
